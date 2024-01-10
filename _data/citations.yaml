@@ -79,6 +79,61 @@
   - CNN
   group: workshop
   _cache: 8e21318b58b253df5e49c503cd6277b9c44b2a1aa551dd3bf83c10637a4571a8
+- title: Generative models for the transfer of knowledge in seismic interpretation
+    with deep learning
+  date: '2021-06-01'
+  authors:
+  - Ricard Durall
+  - Valentin Tschannen
+  - Norman Ettrich
+  - Janis Keuper
+  link: https://pubs.geoscienceworld.org/tle/article-abstract/40/7/534/605879
+  publisher: The Leading Edge
+  extra-links:
+  - type: preprint
+    link: https://pubs.geoscienceworld.org/tle/article-abstract/40/7/534/605879
+  image: https://library.seg.org/cms/10.1190/leedff.2024.43.issue-1/asset/18ccb341-e318-cb34-3e31-ccb3413e318c/leedff.2024.43.issue-1.cover.png
+  tags:
+  - Geophysics
+  - CNN
+  group: journal
+  _cache: f99f3d39c5be3e7643a0cd8e96f440126dab76f8a265b805b2fbee066ce5b083
+- title: SpectralDefense - Detecting Adversarial Attacks on CNNs in the Fourier Domain
+  date: '2021-06-01'
+  authors:
+  - Paula Harder
+  - Franz-Josef Pfreundt
+  - Margret Keuper
+  - Janis Keuper
+  link: https://arxiv.org/pdf/2103.03000
+  publisher: IJCNN
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/pdf/2103.03000
+  image: https://sda.tech/wp-content/uploads/2021/06/ijcnn_logo.png
+  tags:
+  - Robustness
+  - CNN
+  group: A
+  _cache: 6724b06f0584f19797f69d284ffc2c300adb512806f04da12549d7486d099259
+- title: Facialgan - Style transfer and attribute manipulation on synthetic faces
+  date: '2021-06-01'
+  authors:
+  - Ricard Durall
+  - Jireh Jam
+  - Dominik Strassel
+  - Moi Hoon Yap
+  - Janis Keuper
+  link: https://arxiv.org/abs/2110.09425
+  publisher: BMVC
+  extra-links:
+  - type: preprint
+    link: https://arxiv.org/abs/2110.09425
+  image: https://www.bmvc2021-virtualconference.com/assets/images/layout/bmvc-logo.png
+  tags:
+  - GAN
+  group: A
+  _cache: d93d1a38de9b1b5e52fcb7bc256ae8254428ce3f976235412ef1583d21d514bf
 - title: Aliasing coincides with CNNs vulnerability towards adversarial attacks
   date: '2022-06-01'
   authors:
