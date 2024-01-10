@@ -118,7 +118,7 @@
     - CNN
   group: A
 
-- title: Facialgan: Style transfer and attribute manipulation on synthetic faces
+- title: Facialgan - Style transfer and attribute manipulation on synthetic faces
   date: 2021-6-1
   authors: 
     - Ricard Durall
