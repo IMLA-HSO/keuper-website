@@ -9,23 +9,16 @@ title: Home
 
 {% include section.html %}
 
-# Keuper Labs
-Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. We work on the intersections of **Machine Learning (ML), Computer Vision (CV), and ML/CV for Geophysics**.
+# Janis' research Pages
+Private research pages by ***Janis Keuper***. I work on the intersections of **Machine Learning (ML), Computer Vision (CV), and ML/CV for Geophysics**.
 
 {:.center}
 ### Latest Highlights
-{%
-  include card.html
-  image="images/dfg.jpg"
-  link="https://www.learning2sense.de/start"
-  title="DFG Research Group"
-  subtitle="Learning to Sense"
-  style="small"
-%}
+
 {%
   include card.html
   image="https://jmlr.org/tmlr/img/tmlr.jpg"
-  link="https://www.keuper-labs.org/research/?search=improving%20native%20CNN"
+  link=""
   title="TMLR"
   subtitle="journal paper"
   style="small"
@@ -33,34 +26,27 @@ Joint research pages of the labs run by ***Margret Keuper and Janis Keuper***. W
 {%
   include card.html
   image="images/cvpr_23.png"
-  link="https://keuperj.github.io/keuper-labs/research/cvpr23.html"
+  link=""
   title="CVPR 23"
-  subtitle="6 workshop paper"
+  subtitle="workshop paper"
   style="small"
 %}
-{%
-  include card.html
-  image="images/iclr_22.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ICLR%2023"
-  title="ICLR 23"
-  subtitle="full paper accepted"
-  style="small"
-%}
+
 {%
   include card.html
   image="images/neurips_22.png"
   link="https://www.keuper-labs.org/research/neurips22.html"
   title="NeurIPS 22"
-  subtitle="2 full paper and 2 workshop paper accepted"
+  subtitle="paper"
   style="small"
 %}
 
 {%
   include card.html
   image="images/eccv_22.png"
-  link="https://keuperj.github.io/keuper-labs/research/?search=ECCV%2022"
+  link=""
   title="ECCV 22"
-  subtitle="2 full paper"
+  subtitle="paper"
   style="small"
 %}
 
