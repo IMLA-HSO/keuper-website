@@ -3,9 +3,9 @@
 # site properties and page defaults
 title: Janis Keuper
 description: Research in Computer Vision, Machine Learning ...
-logo: images/logo.svg
-header: images/background.jpg
-footer: images/background.jpg
+logo: images/logo.jpg
+#header: images/background.jpg
+#footer: images/background.jpg
 baseurl: /
 
 # site social media and other links
