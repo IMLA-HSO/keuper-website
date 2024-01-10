@@ -1,8 +1,8 @@
 ### basic settings
 
 # site properties and page defaults
-title: Keuper Labs
-description: Research in Computer Vision and Machine Learning ...
+title: Janis Keuper
+description: Research in Computer Vision, Machine Learning ...
 logo: images/logo.svg
 header: images/background.jpg
 footer: images/background.jpg
@@ -10,12 +10,11 @@ baseurl: /
 
 # site social media and other links
 links:
-  email: info@keuper-labs.org
-  google-scholar: GzGmPPAAAAAJ
-  github: KeuperLabs
-  twitter: KeuperLabs
-  youtube: channel/UC7cACCO3Rv9WAl196pX_3bw
-
+  email: keuper@imla.ai
+  google-scholar: BUkDvU0AAAAJ
+  github: keuperj
+  twitter: JanisKeuper
+  
 ### advanced settings
 
 # automatic citations
