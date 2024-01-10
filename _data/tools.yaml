@@ -19,24 +19,6 @@
     - GAN
     - DIFFUSION
     
-- title: ClimateVisions 
-  subtitle: at Uni Mannheim with TU Munich 
-  group: current
-  image: images/BMBF.jpeg
-  link: https://www.gov.sot.tum.de/gov/projects/climatevisions-project/project/
-  description: automated image analysis of Reactions and Emotions from Images on Climate Change in Social Media
-  tags:
-    - BMBF
-    - DEEPFAKE
-
-- title: Learning to Sense
-  subtitle: DFG Research Unit 5336 at Uni Siegen
-  group: current
-  image: images/dfg.jpg
-  link: https://www.learning2sense.de/start
-  description: Jointly Optimizing Sensor System Designs and Neural Networks
-  tags:
-    - DFG
  
 - title: Gaia-X4KI
   subtitle: BMWk fundet project at IMLA and ITWM
@@ -76,11 +58,5 @@
     - BMBF
     - NAS
     
-- title: DFG Research Project 360826079
-  group: past
-  image: images/dfg.jpg
-  link: https://gepris.dfg.de/gepris/projekt/360826079?language=en
-  description: Video Segmentation from Multiple Representations using Lifted Multicuts
-  tags:
-    - DFG
+
 
