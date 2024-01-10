@@ -62,46 +62,6 @@
   - CNN
   group: AAA
   _cache: 2d5699517f0cd0d7b18df50f2d372effe196adfc05c5a1aa2cae65324ce90a2a
-- title: Smooth variational graph embeddings for efficient neural architecture search
-  date: '2021-06-01'
-  authors:
-  - Jovita Lukasik
-  - David Friede
-  - Arber Zela
-  - Frank Hutter
-  - Margret Keuper
-  link: https://arxiv.org/pdf/2010.04683
-  publisher: Proceedings of the Nineth International Conference on Learning Representations
-    (ICLR 21)
-  extra-links:
-  - type: preprint
-    link: https://arxiv.org/pdf/2010.04683
-  - type: source
-    link: https://github.com/jovitalukasik/SVGe
-  image: images/iclr_22.png
-  tags:
-  - NAS
-  group: AAA
-  _cache: 1dbd9971f4409b1d88408f598345d978918f1c3c74f3855e72b0d5d5709bf9d0
-- title: Shape your Space - A Gaussian Mixture Regularization Approach to Deterministic
-    Autoencoders
-  date: '2021-06-01'
-  authors:
-  - Amrutha Saseendran
-  - Kathrin Skubch
-  - Stefan Falkner
-  - Margret Keuper
-  link: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf
-  publisher: NeurIPS 21, proceedings of the thirty-sixth Conference on Neural Information
-    Processing Systems
-  extra-links:
-  - type: preprint
-    link: https://proceedings.neurips.cc/paper/2021/file/3c057cb2b41f22c0e740974d7a428918-Paper.pdf
-  image: images/neurips_22.png
-  tags:
-  - VAE
-  group: AAA
-  _cache: 8e32290ae4d71fefd4e97a15a71bf36832c0bd33249cc5a23086eb9d1244ac40
 - title: An Empirical Investigation of Model-to-Model Distribution Shifts in Trained
     Convolutional Filters
   date: '2021-06-01'
@@ -119,39 +79,6 @@
   - CNN
   group: workshop
   _cache: 8e21318b58b253df5e49c503cd6277b9c44b2a1aa551dd3bf83c10637a4571a8
-- title: Multi-Class Multi-Instance Count Conditioned Adversarial Image Generation
-  date: '2021-06-01'
-  authors:
-  - Amrutha Saseendran
-  - Kathrin Skubch
-  - Margret Keuper
-  link: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf
-  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-    Recognition (CVPR 2021)
-  extra-links:
-  - type: preprint
-    link: https://openaccess.thecvf.com/content/ICCV2021/papers/Saseendran_Multi-Class_Multi-Instance_Count_Conditioned_Adversarial_Image_Generation_ICCV_2021_paper.pdf
-  image: images/cvpr_21.jpg
-  tags:
-  - VAE
-  - robustness
-  group: AAA
-  _cache: 130b96aa769732a319f31715367a2d989f75b79650498ef69a931b32704d1746
-- title: Spectral distribution aware image generation
-  date: '2021-06-01'
-  authors:
-  - Steffen Jung
-  - Margret Keuper
-  link: https://ojs.aaai.org/index.php/AAAI/article/view/16267/16074
-  publisher: AAAI
-  extra-links:
-  - type: preprint
-    link: https://ojs.aaai.org/index.php/AAAI/article/view/16267/16074
-  image: images/aaai.jpg
-  tags:
-  - CNN
-  group: AAA
-  _cache: f4ab064b5773337e7d97aa33ccfbe958dc1312716b3b80b4e6c57bf586c6c72f
 - title: Aliasing coincides with CNNs vulnerability towards adversarial attacks
   date: '2022-06-01'
   authors:
@@ -204,45 +131,6 @@
   - CNN
   group: workshop
   _cache: 619e19f855dff37e2b6262c28968aae08f59955ec105f6260201513f072aef16
-- title: Surrogate NAS benchmarks - Going beyond the limited search spaces of tabular
-    NAS benchmarks
-  date: '2022-06-01'
-  authors:
-  - Arber Zela
-  - Julien Niklas Siems
-  - Lucas Zimmer
-  - Jovita Lukasik
-  - Margret Keuper
-  - Frank Hutter
-  link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
-  publisher: Proceedings of the Tenth International Conference on Learning Representations
-    (ICLR 22)
-  extra-links:
-  - type: preprint
-    link: https://pure.mpg.de/rest/items/item_3404264/component/file_3404265/content
-  image: images/iclr_22.png
-  tags:
-  - NAS
-  group: AAA
-  _cache: 51c3fc613384381b34b89fc020bb4ea44fea51aa90f8045e6fd9b6e31c8a370c
-- title: Higher-Order Multicuts for Geometric Model Fitting and Motion Segmentation
-  date: '2022-06-01'
-  authors:
-  - Evgeny Levinkov
-  - Amirhossein Kardoost
-  - Bjoern Andres
-  - Margret Keuper
-  link: https://ieeexplore.ieee.org/iel7/34/9970415/09706260.pdf
-  publisher: IEEE Transactions on Pattern Analysis and Machine Intelligence
-  extra-links:
-  - type: preprint
-    link: https://ieeexplore.ieee.org/iel7/34/9970415/09706260.pdf
-  image: images/tpami.png
-  tags:
-  - Multicut
-  - Segmentation
-  group: AAA
-  _cache: 9896cfc464daab30c48d2fd1e57c40633928a842ff3c6c2137558b86bd2b71c3
 - title: Aliasing and adversarial robust generalization of CNNs
   date: '2022-06-01'
   authors:
@@ -331,24 +219,6 @@
   - robustness
   group: AAA
   _cache: 1370c6c09527efd4a7e0e751ecf94b75eb6638740621c038c5b8e0c2dae5b05e
-- title: Learning Where To Look--Generative NAS is Surprisingly Efficient
-  date: '2022-06-01'
-  authors:
-  - Jovita Lukasik
-  - Steffen Jung
-  - Margret Keuper
-  link: https://arxiv.org/pdf/2203.08734.pdf
-  publisher: ECCV 2022 - Proceedings of the 17th European Conference, Tel Aviv, Israel
-  extra-links:
-  - type: preprint
-    link: https://arxiv.org/pdf/2203.08734.pdf
-  - type: source
-    link: https://github.com/jovitalukasik/AG-Net
-  image: images/eccv_22.png
-  tags:
-  - NAS
-  group: AAA
-  _cache: 0c3d3d2807f5706f193b3e5d0b6a95a791c495e0ba2c35fe79cf5d018b140bae
 - title: Physics-informed learning of aerosol microphysics
   date: '2022-06-01'
   authors:
@@ -385,25 +255,6 @@
   - medical imaging
   group: workshop
   _cache: 19485541a9b2480265b65556579f44d2a0ce60931be255e06193ee8cf3e8858c
-- title: Impact of realistic properties of the point spread function on classification
-    tasks to reveal a possible distribution shift
-  date: '2022-06-01'
-  authors:
-  - "Patrick M\xFCller"
-  - Alexander Braun
-  - Margret Keuper
-  link: https://pure.mpg.de/rest/items/item_3473172/component/file_3473173/content
-  publisher: NeurIPS 2022 Workshop on Distribution Shifts - Connecting Methods and
-    Applications
-  extra-links:
-  - type: preprint
-    link: https://pure.mpg.de/rest/items/item_3473172/component/file_3473173/content
-  image: images/neurips_22_w.png
-  tags:
-  - CNN
-  - medical imaging
-  group: workshop
-  _cache: 50c624c3192f27b3e65c14fab4f38f4f4dbc5437fbd28716de5ab6fb7e6bd349
 - title: Robust Models are less Over-Confident
   date: '2022-06-01'
   authors:
@@ -425,43 +276,6 @@
   - robustness
   group: AAA
   _cache: 1a02bc166e8643d86e33c8756982df45d4ad36b2e1eb2e4c8bdce263d7f45be7
-- title: Trading off Image Quality for Robustness is not Necessary with Regularized
-    Deterministic Autoencoders
-  date: '2022-06-01'
-  authors:
-  - Amrutha Saseendran
-  - Kathrin Skubch
-  - Margret Keuper
-  link: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content
-  publisher: NeurIPS 22, proceedings of the thirty-sixth Conference on Neural Information
-    Processing Systems
-  extra-links:
-  - type: preprint
-    link: https://pure.mpg.de/rest/items/item_3473164/component/file_3473165/content
-  image: images/neurips_22.png
-  tags:
-  - robustness
-  - VAE
-  group: AAA
-  _cache: d4f0dc3ca6ef9cca84e58e3e3d48cd513b0f2e6eb2e21e552ac5db44f58af2d6
-- title: Neural Architecture Design and Robustness - A Dataset
-  date: '2023-06-01'
-  authors:
-  - Steffen Jung
-  - Jovita Lukasik
-  - Margret Keuper
-  link: https://steffen-jung.github.io/robustness/
-  publisher: Proceedings of the Tenth International Conference on Learning Representations
-    (ICLR 23)
-  extra-links:
-  - type: preprint
-    link: https://steffen-jung.github.io/robustness/
-  image: images/iclr_22.png
-  tags:
-  - NAS
-  - robustness
-  group: AAA
-  _cache: 61ff88bee9d264f129488d8a5ba3c48268559c592a7ced7716374e366ec20808
 - title: Deep diffusion models for seismic processing
   date: '2023-06-01'
   authors:
@@ -497,25 +311,6 @@
   - robustness
   group: workshop
   _cache: d83c8b68cafb20e5005f4aeee5847db19dde3e15bc3145dd59208bcd18508888
-- title: Happy People -- Image Synthesis as Black-Box Optimization Problem in the
-    Discrete Latent Space of Deep Generative Models
-  date: '2023-06-01'
-  authors:
-  - Steffen Jung
-  - Jan Christian Schwedhelm
-  - Claudia Schillings
-  - Margret Keuper
-  link: https://arxiv.org/pdf/2306.06684
-  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-    Recognition Workshops (CVPRW 2023)
-  extra-links:
-  - type: preprint
-    link: https://arxiv.org/pdf/2306.06684
-  image: images/cvpr_23w.png
-  tags:
-  - GAN
-  group: workshop
-  _cache: d5a7e84a8e161a53d8bd93a08a71f50abc4373b34d9929241d82c2caf981bd3c
 - title: Fine-Grained Product Classification on Leaflet Advertisements
   date: '2023-06-01'
   authors:
@@ -533,59 +328,6 @@
   - retail
   group: workshop
   _cache: 68395357eec274caa31e27fd94ef3cd77e40a7bfeda3edf172fea923843c715d
-- title: Neural Architecture Design and Robustness -- A Dataset
-  date: '2023-06-01'
-  authors:
-  - Steffen Jung1
-  - Jovita Lukasik
-  - Margret Keuper
-  link: https://robustart.github.io/short_paper/33.pdf
-  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-    Recognition Workshops (CVPRW 2023)
-  extra-links:
-  - type: preprint
-    link: https://robustart.github.io/short_paper/33.pdf
-  image: images/cvpr_23w.png
-  tags:
-  - robustness
-  group: workshop
-  _cache: 161a966c76134637b07f764d73e2660870459874275f2757595993d0ed14bde6
-- title: Intra-Source Style Augmentation for Improved Domain Generalization
-  date: '2023-06-01'
-  authors:
-  - Yumeng Li
-  - Dan Zhang
-  - Margret Keuper
-  - Anna Khoreva
-  link: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf
-  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-    Recognition Workshops (CVPRW 2023)
-  extra-links:
-  - type: preprint
-    link: https://generative-vision.github.io/workshop-CVPR-23/data/12.pdf
-  image: images/cvpr_23w.png
-  tags:
-  - Generative
-  group: workshop
-  _cache: 051ee7e9a1a8cc0259e072fc4843348b938c8e8e047dc9f3e443905a02352399
-- title: Assessing Domain Generalization of Semantic Segmenters with Synthetic Data
-  date: '2023-06-01'
-  authors:
-  - Yumeng Li
-  - Dan Zhang
-  - Margret Keuper
-  - Anna Khoreva
-  link: https://sites.google.com/view/vdu-cvpr23
-  publisher: Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern
-    Recognition Workshops (CVPRW 2023)
-  extra-links:
-  - type: preprint
-    link: https://sites.google.com/view/vdu-cvpr23
-  image: images/cvpr_23w.png
-  tags:
-  - segmentation
-  group: workshop
-  _cache: 1446f5c2ebeda490f76ca1d7309c6a177f394d66276df1b4a7c76eacad049777
 - title: On the Interplay of Convolutional Padding and Adversarial Robustness
   date: '2023-06-01'
   authors:
@@ -602,26 +344,6 @@
   - robustness
   group: workshop
   _cache: 1d2b8bd0064f6cb9328a6954a3dad132ce7539c9aba78ea6bd90b475a9b61606
-- title: On the unreasonable vulnerability of transformers for image restoration and
-    an easy fix
-  date: '2023-06-01'
-  authors:
-  - Shashank Agnihotri
-  - Kanchana Vaishnavi Gandikota
-  - Julia Grabinski
-  - Paramanand Chandramouli
-  - Margret Keuper
-  link: https://arxiv.org/abs/2307.13856
-  publisher: Proceedings of the IEEE/CVF International Conference on Computer Vision
-    Workshops (ICCVw 2023)
-  extra-links:
-  - type: source
-    link: https://arxiv.org/abs/2307.13856
-  image: images/ICCVw23.jpg
-  tags:
-  - robustness
-  group: workshop
-  _cache: 3872f44ab7a762a3eac280584e0b7e4acaf0cbb9b11d928023b9096baa5594a0
 - title: An In-Depth Study of U-net for Seismic Data Conditioning - Multiple Removal
     by Move-Out Discrimination
   date: '2023-06-01'
