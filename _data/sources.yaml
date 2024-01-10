@@ -112,7 +112,7 @@
   extra-links:
     - type: preprint
       link: https://arxiv.org/pdf/2103.03000
-  image: https://sda.tech/wp-content/uploads/2021/06/ijcnn_logo.png
+  image: https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZv9UnCXlR0eTkTM54AwDGP0a4apYHq_NTgA&usqp=CAU
   tags:
     - Robustness
     - CNN
@@ -131,7 +131,7 @@
   extra-links:
     - type: preprint
       link: https://arxiv.org/abs/2110.09425
-  image: https://www.bmvc2021-virtualconference.com/assets/images/layout/bmvc-logo.png
+  image: https://pbs.twimg.com/profile_images/1596834134126723078/T1xQsNoF_400x400.png
   tags:
     - GAN
   group: A
