@@ -86,7 +86,7 @@
   date: 2021-6-1
   authors: 
     - Ricard Durall
-    - Valentin Tschanne
+    - Valentin Tschannen
     - Norman Ettrich
     - Janis Keuper
   link: https://pubs.geoscienceworld.org/tle/article-abstract/40/7/534/605879
@@ -100,7 +100,7 @@
     - CNN
   group: journal
 
-- title: SpectralDefense: Detecting Adversarial Attacks on CNNs in the Fourier Domain
+- title: SpectralDefense - Detecting Adversarial Attacks on CNNs in the Fourier Domain
   date: 2021-6-1
   authors: 
     - Paula Harder 
