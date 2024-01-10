@@ -7,15 +7,7 @@ nav:
 
 # <i class="fas fa-users"></i>Team
 
-{%
-  include card.html
-  image="images/margret_small.jpg"
-  link="members/margret.html"
-  title="Margret Keuper"
-  subtitle="Computervision + Machine Learning"
-  description="Margret is full Professor for Machine Learning at [Mannheim University](https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/) and head of the *Robust Visual Learning Group* at [MPI Saarbrücken](https://www.mpi-inf.mpg.de/de/departments/computer-vision-and-machine-learning/people/margret-keuper)."
-  style="large"
-%}
+
 {%
   include card.html
   image="images/janis_SC15_small.jpg"
