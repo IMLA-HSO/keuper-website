@@ -82,8 +82,59 @@
     - CNN
   group: workshop 
   
+- title: Generative models for the transfer of knowledge in seismic interpretation with deep learning
+  date: 2021-6-1
+  authors: 
+    - Ricard Durall
+    - Valentin Tschanne
+    - Norman Ettrich
+    - Janis Keuper
+  link: https://pubs.geoscienceworld.org/tle/article-abstract/40/7/534/605879
+  publisher: The Leading Edge
+  extra-links:
+    - type: preprint
+      link: https://pubs.geoscienceworld.org/tle/article-abstract/40/7/534/605879
+  image: https://library.seg.org/cms/10.1190/leedff.2024.43.issue-1/asset/18ccb341-e318-cb34-3e31-ccb3413e318c/leedff.2024.43.issue-1.cover.png
+  tags:
+    - Geophysics
+    - CNN
+  group: journal
 
+- title: SpectralDefense: Detecting Adversarial Attacks on CNNs in the Fourier Domain
+  date: 2021-6-1
+  authors: 
+    - Paula Harder 
+    - Franz-Josef Pfreundt
+    - Margret Keuper
+    - Janis Keuper
+  link: https://arxiv.org/pdf/2103.03000
+  publisher: IJCNN
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/pdf/2103.03000
+  image: https://sda.tech/wp-content/uploads/2021/06/ijcnn_logo.png
+  tags:
+    - Robustness
+    - CNN
+  group: A
 
+- title: Facialgan: Style transfer and attribute manipulation on synthetic faces
+  date: 2021-6-1
+  authors: 
+    - Ricard Durall
+    - Jireh Jam
+    - Dominik Strassel
+    - Moi Hoon Yap
+    - Janis Keuper
+  link: https://arxiv.org/abs/2110.09425
+  publisher: BMVC
+  extra-links:
+    - type: preprint
+      link: https://arxiv.org/abs/2110.09425
+  image: https://www.bmvc2021-virtualconference.com/assets/images/layout/bmvc-logo.png
+  tags:
+    - GAN
+  group: A
 #-------------------------
 # 2022
 #-------------------------
