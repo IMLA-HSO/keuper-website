@@ -7,60 +7,15 @@ nav:
 
 # <i class="fas fa-envelope"></i>Contact
 
-This private website aggregates research from closely cooperating labs from multiple institutions. Please refer to the individual lab sites linked below for contact details or write us a mail... 
+This private website aggregates research. Please refer to the official university site linked below for contact details ... 
 
 
 {:.center}
 
-{%
-  include link.html
-  type="email"
-  icon=""
-  text="mail@keuper-labs.org"
-  tooltip=""
-  link="mail@keuper-labs.org"
-  style="button"
-%}
 
 
 {% include section.html %}
 
-
-
-{% capture col1 %}
-{%
-  include figure.html
-  image="https://www.uni-mannheim.de/typo3conf/ext/uma_site/Resources/Public/Images/Icons/logo-fakultaet-wim-en.svg"
-  link="https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/"
-  height="80px"
-  caption="Machine Learning Group at Mannheim University"
-%}
-{%
-  include link.html
-  link="https://www.uni-mannheim.de/dws/people/professors/prof-dr-ing-margret-keuper/"
-  text="Visit group pages in Mannheim"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{% endcapture %}
-{% capture col2 %}
-{%
-  include figure.html
-  image="images/logo_mpi_430.png"
-  link="https://www.mpi-inf.mpg.de/de/departments/computer-vision-and-machine-learning/people/margret-keuper"
-  height="80px"
-  caption="Robust Visual Learning Group at MPI Saarbrücken"
-%}
-{%
-  include link.html
-  link="https://www.mpi-inf.mpg.de/de/departments/computer-vision-and-machine-learning/people/margret-keuper"
-  text="visit group page in Saarbrücken"
-  icon="fas fa-arrow-right"
-  flip=true
-%}
-{% endcapture %}
-
-{% include two-col.html col1=col1 col2=col2 %}
 
 {% capture col1 %}
 {%
