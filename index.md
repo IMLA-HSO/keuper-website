@@ -20,6 +20,14 @@ Private research pages by ***Janis Keuper***. I work on the intersections of **M
 %}
 {%
   include card.html
+  image="images/seg.png"
+  link=""
+  title="Geophysics"
+  subtitle="journal paper"
+  style="small"
+%}
+{%
+  include card.html
   image="images/cvpr_23.png"
   link=""
   title="CVPR 23"
@@ -42,6 +50,14 @@ Private research pages by ***Janis Keuper***. I work on the intersections of **M
   link=""
   title="ECCV 22"
   subtitle="paper"
+  style="small"
+%}
+{%
+  include card.html
+  image="images/cvpr_22_oral.png"
+  link=""
+  title="CVPR 22"
+  subtitle="oral"
   style="small"
 %}
 
