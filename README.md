@@ -1,5 +1,5 @@
 
-<h1 align="center">Keuper Labs Website</h1>
+<h1 align="center">Website Janis Keuper</h1>
 
 ## FAQ
 
