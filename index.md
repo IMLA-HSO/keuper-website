@@ -1,11 +1,6 @@
 ---
 title: Home
 ---
-{%
-  include figure.html
-  image="images/logo.svg"
-  width="200px"
-%}
 
 {% include section.html %}
 
@@ -55,12 +50,12 @@ Private research pages by ***Janis Keuper***. I work on the intersections of **M
 
 
 {% capture text %}
-Find our latest papers on Computer Vision, Machine Learning and HPC topics...
+Latest papers on Computer Vision, Machine Learning and HPC topics...
 
 {%
   include link.html
   link="research"
-  text="See what we've published"
+  text="Publications"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -76,12 +71,12 @@ Find our latest papers on Computer Vision, Machine Learning and HPC topics...
 %}
 
 {% capture text %}
-Explore our current and past research projects...
+Research projects and funding...
 
 {%
   include link.html
   link="tools"
-  text="Browse our projects"
+  text="Projects"
   icon="fas fa-arrow-right"
   flip=true
 %}
@@ -98,7 +93,7 @@ Explore our current and past research projects...
 %}
 
 {% capture text %}
-Meet our teams and find open positions... 
+Team... 
 
 {%
   include link.html
@@ -114,16 +109,8 @@ Meet our teams and find open positions...
   include feature.html
   image="images/eccv.jpg"
   link="team"
-  title="Our Team"
+  title="PhD Students"
   text=text
 %}
 
-# News 
-Twitter feed only visible if logged into Twitter...
-
-<!-- Twitter embeds from https://publish.twitter.com/ -->
-<a class="twitter-timeline" href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw">Tweets by KeuperLabs</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-
-<a href="https://twitter.com/KeuperLabs?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @KeuperLabs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-<a href="https://twitter.com/intent/tweet?screen_name=KeuperLabs&ref_src=twsrc%5Etfw" class="twitter-mention-button" data-show-count="false">Tweet to @KeuperLabs</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
 {:.center}
