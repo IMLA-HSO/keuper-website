@@ -9,12 +9,19 @@ Private research pages by ***Janis Keuper***. I work on the intersections of **M
 
 {:.center}
 ### Latest Highlights
-
+{%
+  include card.html
+  image="images/cvpr_24.png"
+  link="https://keuperj.github.io/keuper-labs/research/?search=CVPR#2024"
+  title="CVPR 2024"
+  subtitle="full paper"
+  style="small"
+%}
 {%
   include card.html
   image="https://jmlr.org/tmlr/img/tmlr.jpg"
   link="https://openreview.net/forum?id=2wecNCpZ7Y"
-  title="TMLR"
+  title="TMLR 24"
   subtitle="journal paper"
   style="small"
 %}
@@ -22,15 +29,7 @@ Private research pages by ***Janis Keuper***. I work on the intersections of **M
   include card.html
   image="images/seg.png"
   link="https://library.seg.org/doi/pdf/10.1190/geo2023-0146.1"
-  title="Geophysics"
-  subtitle="journal paper"
-  style="small"
-%}
-{%
-  include card.html
-  image="images/cg_journal.png"
-  link="https://www.sciencedirect.com/science/article/pii/S009830042300081X"
-  title="Computers and Geosciences"
+  title="Geophysics 23"
   subtitle="journal paper"
   style="small"
 %}
